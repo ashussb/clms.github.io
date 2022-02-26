@@ -1,0 +1,52 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: indigo;
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin: 10px 20px;
+    margin-right: 20px;    
+}
+ ul li{
+    list-style: none;
+    float: left;
+    color: white;
+    margin: 10px 10px;
+    
+    
+    
+    padding: 0 15px;
+}
+ul li:hover{
+    color: lawngreen;
+    border: 2px solid lawngreen;
+    cursor: pointer;
+    zoom: 110%;
+}
+.logo{
+    float: left;
+    margin: 2px 10px;
+
+}
+.main{
+    border: 2px solid red;
+    margin: 50px 50px;
+}
+.fld1{
+    float: left;
+    border: 2px solid black;
+    margin: 10px 10px;
+    height: 200px;
+    width: 327px;
+}
+.fld2{
+    float: right;
+    border: 2px solid black;
+    margin: 10px 10px;
+    height: 200px;
+    width: 350px;
+}
